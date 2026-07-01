@@ -16,6 +16,6 @@
     </style>
 </head>
 <body>
-    <img src="hud.png" alt="HUD Moto">
+    <img src="hud.png.png" alt="HUD Moto">
 </body>
 </html>
