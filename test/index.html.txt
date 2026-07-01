@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: transparent; /* Fond transparent */
+            overflow: hidden;
+        }
+        img {
+            width: 100vw;
+            height: 100vh;
+            object-fit: contain; /* Garde les proportions */
+        }
+    </style>
+</head>
+<body>
+    <img src="hud.png" alt="HUD Moto">
+</body>
+</html>
